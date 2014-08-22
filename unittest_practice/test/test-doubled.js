@@ -6,4 +6,3 @@ exports.calculate = function (test) {
 };
 
 console.log("End of file");
-                
